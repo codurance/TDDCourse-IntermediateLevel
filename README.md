@@ -1,3 +1,3 @@
-# TDD In Depth - Medium
+# TDD Course - Intermediate Level
 
 ## Remembering SOLID Principles
